@@ -31,6 +31,7 @@ Query the verified, evidence-tiered music knowledge graph for Cumulative Web Inc
 2. **Raw files** (no auth): `llms.txt`, `catalog.json`, `graph.json` served
    alongside the public learning surface.
 3. **A2A agent card**: `/.well-known/agent-card.json` on the public surface.
+4. **Equip guide** (10 steps, every step tested): https://cumulativewebinc.github.io/cwi-learn/EQUIP-GUIDE.md — discover → license → install the Agent Deck MCP server → run a trust-verdict check → query the catalog → verify your equip.
 
 ## The one rule
 
